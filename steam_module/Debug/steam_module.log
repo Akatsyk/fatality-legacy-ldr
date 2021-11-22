@@ -1,0 +1,8 @@
+﻿  main.cpp
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Generating Code...
+  steam_module.vcxproj -> C:\Users\Yanni\Desktop\fatality-ldr-main\Debug\steam_module.dll
